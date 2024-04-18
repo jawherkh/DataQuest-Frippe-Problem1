@@ -13,7 +13,7 @@ Abdou, an IEEE INSAT CS member, is embarking on a treasure hunt at Frippe, a thr
 Our Mission: Analyze each garment based on key criteria to determine the price estimation for Abdou:
 
 + Marka: Brand
-+Naw3: Price
++ Naw3: Price
 + Modhkhom: Formality (formal, casual, etc.)
 + 9at3a: Type of clothing (shirt, pants, etc.)
 + Khochn: Fabric thickness
